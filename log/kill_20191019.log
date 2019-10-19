@@ -1,0 +1,37 @@
+--- 20191019_AM_022716 ---
+118	root	localhost	updatekill_db	Query	15	Waiting for table metadata lock	UPDATE updatekill_tb set name="hirata" where id=1
+119	root	localhost	updatekill_db	Query	14	Waiting for table metadata lock	UPDATE updatekill_tb set name="hirata" where id=2
+--- 20191019_AM_022911 ---
+123	root	localhost	updatekill_db	Query	21	Waiting for table metadata lock	UPDATE updatekill_tb set name="hirata" where id=1
+124	root	localhost	updatekill_db	Query	19	Waiting for table metadata lock	UPDATE updatekill_tb set name="hirata" where id=2
+--- 20191019_AM_023014 ---
+--- 20191019_AM_023018 ---
+128	root	localhost	updatekill_db	Query	12	Waiting for table metadata lock	UPDATE updatekill_tb set name="hirata" where id=1
+129	root	localhost	updatekill_db	Query	11	Waiting for table metadata lock	UPDATE updatekill_tb set name="hirata" where id=2
+--- 20191019_AM_023021 ---
+--- 20191019_AM_023023 ---
+--- 20191019_AM_023036 ---
+--- 20191019_AM_023042 ---
+136	root	localhost	updatekill_db	Query	12	Waiting for table metadata lock	UPDATE updatekill_tb set name="hirata" where id=1
+--- 20191019_AM_023049 ---
+137	root	localhost	updatekill_db	Query	17	Waiting for table metadata lock	UPDATE updatekill_tb set name="hirata" where id=2
+--- 20191019_AM_023307 ---
+--- 20191019_AM_023313 ---
+--- 20191019_AM_023323 ---
+144	root	localhost	updatekill_db	Query	14	Waiting for table metadata lock	UPDATE updatekill_tb set name="hirata" where id=1
+145	root	localhost	updatekill_db	Query	12	Waiting for table metadata lock	UPDATE updatekill_tb set name="hirata" where id=2
+--- 20191019_AM_023659 ---
+--- 20191019_AM_023720 ---
+151	root	localhost	updatekill_db	Query	18	Waiting for table metadata lock	UPDATE updatekill_tb set name="hirata" where id=1
+--- 20191019_AM_024211 ---
+--- 20191019_AM_024221 ---
+--- 20191019_AM_024225 ---
+--- 20191019_AM_024226 ---
+155	root	localhost	updatekill_db	Query	11	Waiting for table metadata lock	UPDATE updatekill_tb set name="hirata" where id=1
+--- 20191019_AM_024228 ---
+156	root	localhost	updatekill_db	Query	11	Waiting for table metadata lock	UPDATE updatekill_tb set name="hirata" where id=2
+--- 20191019_AM_024241 ---
+--- 20191019_AM_024250 ---
+--- 20191019_AM_024257 ---
+164	root	localhost	updatekill_db	Query	14	Waiting for table metadata lock	UPDATE updatekill_tb set name="hirata" where id=1
+165	root	localhost	updatekill_db	Query	13	Waiting for table metadata lock	UPDATE updatekill_tb set name="hirata" where id=2
